@@ -1,4 +1,4 @@
-# FinFlow-Analyzer
+# FinFlow-Analyzer-Radha Krishna Singh
 <img width="1077" alt="image" src="https://github.com/rk8672/FinFlow/assets/88264158/501f1dab-b171-4894-aed6-fd9ce0cad417">
 <img width="1077" alt="image" src="https://github.com/rk8672/FinFlow/assets/88264158/3391c4c0-60bf-4021-a0f5-2ceedc8ad83f">
 <img width="1076" alt="image" src="https://github.com/rk8672/FinFlow/assets/88264158/c3d8ace6-8dff-415c-8c2a-846ccaf593c7">
